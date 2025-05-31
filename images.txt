@@ -1,1 +1,1 @@
-nezhahq/nezha:latest
+ghcr.io/nezhahq/nezha:latest
