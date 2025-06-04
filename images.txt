@@ -1,2 +1,3 @@
 ghcr.io/nezhahq/nezha:latest
 xhofe/alist
+nginx:latest
