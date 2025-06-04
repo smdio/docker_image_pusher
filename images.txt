@@ -1,3 +1,2 @@
 ghcr.io/nezhahq/nezha:latest
-alist666/alist:latest
-alist666/alist:beta
+alist666/alist:v3.45.0
