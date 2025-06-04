@@ -1,2 +1,3 @@
 ghcr.io/nezhahq/nezha:latest
 alist666/alist:latest
+alist666/alist:beta
