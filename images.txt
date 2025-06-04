@@ -2,3 +2,4 @@ ghcr.io/nezhahq/nezha:latest
 xhofe/alist
 nginx:latest
 whyour/qinglong
+ghcr.io/raywangqvq/bili_tool_web
