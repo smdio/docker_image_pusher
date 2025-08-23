@@ -9,7 +9,7 @@
 
 
 #ghcr.io/nezhahq/nezha:latest
-#xhofe/alist
+openlistteam/openlist:latest
 #nginx:latest
 #whyour/qinglong
 #ghcr.io/raywangqvq/bili_tool_web
