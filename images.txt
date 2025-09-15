@@ -9,8 +9,11 @@
 
 
 #ghcr.io/nezhahq/nezha:latest
-openlistteam/openlist:latest
+#openlistteam/openlist:latest
 #nginx:latest
 #whyour/qinglong
 #ghcr.io/raywangqvq/bili_tool_web
 #cloudflare/cloudflared
+
+
+openlistteam/openlist:latest
