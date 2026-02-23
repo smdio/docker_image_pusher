@@ -9,6 +9,7 @@
 
 
 #ghcr.io/nezhahq/nezha:latest
+#registry.cn-shanghai.aliyuncs.com/naibahq/nezha-dashboard:latest
 #openlistteam/openlist:latest
 #nginx:latest
 #whyour/qinglong
@@ -16,4 +17,4 @@
 #cloudflare/cloudflared
 
 
-openlistteam/openlist:latest
+ghcr.io/nezhahq/nezha:latest
