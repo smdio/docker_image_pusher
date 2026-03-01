@@ -17,4 +17,4 @@
 #cloudflare/cloudflared
 
 
-ghcr.io/nezhahq/nezha:latest
+ubuntu:20.04
