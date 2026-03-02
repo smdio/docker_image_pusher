@@ -12,9 +12,9 @@
 #registry.cn-shanghai.aliyuncs.com/naibahq/nezha-dashboard:latest
 #openlistteam/openlist:latest
 #nginx:latest
-#whyour/qinglong
 #ghcr.io/raywangqvq/bili_tool_web
 #cloudflare/cloudflared
+#--platform=linux/amd64 ubuntu:20.04
 
 
---platform=linux/amd64 ubuntu:20.04
+ghcr.io/whyour/qinglong:latest
