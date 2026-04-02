@@ -18,4 +18,4 @@
 
 
 
-kasmweb/kali-rolling-desktop:latest
+kasmweb/kali-rolling-desktop:1.16.0
