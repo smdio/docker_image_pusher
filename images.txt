@@ -7,7 +7,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
 #ghcr.io/nezhahq/nezha:latest
 #registry.cn-shanghai.aliyuncs.com/naibahq/nezha-dashboard:latest
 #openlistteam/openlist:latest
@@ -15,6 +14,8 @@
 #ghcr.io/raywangqvq/bili_tool_web
 #cloudflare/cloudflared
 #--platform=linux/amd64 ubuntu:20.04
+#ghcr.io/whyour/qinglong:latest
 
 
-ghcr.io/whyour/qinglong:latest
+
+kasmweb/kali-rolling-desktop:latest
