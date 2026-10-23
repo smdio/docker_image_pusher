@@ -14,8 +14,8 @@
 #--platform=linux/amd64 ubuntu:20.04
 #ghcr.io/whyour/qinglong:latest
 #kasmweb/kali-rolling-desktop:1.16.0
-#ghcr.io/nezhahq/nezha:latest
+ghcr.io/nezhahq/nezha:latest
 
 
 
-su3817807/ctyun:latest
+#su3817807/ctyun:latest
